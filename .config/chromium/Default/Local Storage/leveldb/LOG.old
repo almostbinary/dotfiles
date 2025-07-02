@@ -1,0 +1,30 @@
+2025/07/02-16:05:21.377 4 Reusing MANIFEST /home/dex/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2025/07/02-16:05:21.379 4 Recovering log #3
+2025/07/02-16:05:21.380 4 Reusing old log /home/dex/.config/chromium/Default/Local Storage/leveldb/000003.log 
+2025/07/02-16:05:31.096 4 Level-0 table #5: started
+2025/07/02-16:05:31.103 4 Level-0 table #5: 23429 bytes OK
+2025/07/02-16:05:31.105 4 Delete type=0 #3
+2025/07/02-16:25:44.773 5 Level-0 table #7: started
+2025/07/02-16:25:44.780 5 Level-0 table #7: 25109 bytes OK
+2025/07/02-16:25:44.782 5 Delete type=0 #4
+2025/07/02-16:49:51.974 4 Level-0 table #9: started
+2025/07/02-16:49:51.982 4 Level-0 table #9: 17458 bytes OK
+2025/07/02-16:49:51.984 4 Delete type=0 #6
+2025/07/02-16:57:43.802 5 Level-0 table #11: started
+2025/07/02-16:57:43.803 5 Level-0 table #11: 46461 bytes OK
+2025/07/02-16:57:43.805 5 Delete type=0 #8
+2025/07/02-16:57:46.228 5 Level-0 table #13: started
+2025/07/02-16:57:46.229 5 Level-0 table #13: 45535 bytes OK
+2025/07/02-16:57:46.231 5 Delete type=0 #10
+2025/07/02-17:11:15.313 4 Level-0 table #15: started
+2025/07/02-17:11:15.314 4 Level-0 table #15: 24163 bytes OK
+2025/07/02-17:11:15.316 4 Delete type=0 #12
+2025/07/02-17:11:15.316 4 Compacting 4@0 + 1@1 files
+2025/07/02-17:11:15.318 4 Generated table #16@0: 246 keys, 116387 bytes
+2025/07/02-17:11:15.318 4 Compacted 4@0 + 1@1 files => 116387 bytes
+2025/07/02-17:11:15.319 4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/07/02-17:11:15.320 4 Delete type=2 #7
+2025/07/02-17:11:15.320 4 Delete type=2 #9
+2025/07/02-17:11:15.320 4 Delete type=2 #11
+2025/07/02-17:11:15.320 4 Delete type=2 #13
+2025/07/02-17:11:15.320 4 Delete type=2 #15

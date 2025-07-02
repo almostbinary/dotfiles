@@ -1,0 +1,6 @@
+2025/07/02-16:05:21.451 795 Reusing MANIFEST /home/dex/.config/chromium/Default/shared_proto_db/MANIFEST-000001
+2025/07/02-16:05:21.451 795 Recovering log #3
+2025/07/02-16:05:21.451 795 Reusing old log /home/dex/.config/chromium/Default/shared_proto_db/000003.log 
+2025/07/02-17:14:41.810 788 Level-0 table #5: started
+2025/07/02-17:14:41.815 788 Level-0 table #5: 556845 bytes OK
+2025/07/02-17:14:41.817 788 Delete type=0 #3

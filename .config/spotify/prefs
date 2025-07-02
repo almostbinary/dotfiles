@@ -1,0 +1,9 @@
+autologin.blob="XCGDBcmmOUqwRP6gbHhJHBA9T6PqTRJ4ssJmI7KZFr/legcJNU8NUIw6UVQAJiSur4QwWzJkpydfNhhu8+VRc8WXW/WJRRteokC1/Vhk3eA0qsiZxI73Qp12Zk49n1lZ0U3zBArOyM5EYHaVlIhd5dM9n6Jjyc+iOJQcWyyHMni08/pQ8QsiqJPxsNjXox8hLJomsatSjACdc1qFLGWmnl+ZbOJ7aBAB+Rdgj9PsFNk+hG+VMeO8ITe5380Z67jD"
+autologin.canonical_username="shersi"
+autologin.saved_credentials="{\"shersi\":[\"shersi\",\"XCGDBcmmOUqwRP6gbHhJHBA9T6PqTRJ4ssJmI7KZFr/legcJNU8NUIw6UVQAJiSur4QwWzJkpydfNhhu8+VRc8WXW/WJRRteokC1/Vhk3eA0qsiZxI73Qp12Zk49n1lZ0U3zBArOyM5EYHaVlIhd5dM9n6Jjyc+iOJQcWyyHMni08/pQ8QsiqJPxsNjXox8hLJomsatSjACdc1qFLGWmnl+ZbOJ7aBAB+Rdgj9PsFNk+hG+VMeO8ITe5380Z67jD\"]}"
+app.rollback-to-sc=true
+es.send-on-startup=true
+core.clock_delta=0
+autologin.username="shersi"
+storage.last-location="/home/dex/.cache/spotify/Storage"
+app.last-launched-version="1.2.63.394.g126b0d89"
