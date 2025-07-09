@@ -1,2 +1,35 @@
 2025/07/02-18:57:49.209 a505 Creating DB /home/dex/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb since it was missing.
 2025/07/02-18:57:49.210 a505 Reusing MANIFEST /home/dex/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/02-22:42:21.682 a503 Level-0 table #5: started
+2025/07/02-22:42:21.694 a503 Level-0 table #5: 1346780 bytes OK
+2025/07/02-22:42:21.696 a503 Delete type=0 #3
+2025/07/04-22:57:21.319 a503 Level-0 table #7: started
+2025/07/04-22:57:21.332 a503 Level-0 table #7: 1641092 bytes OK
+2025/07/04-22:57:21.334 a503 Delete type=0 #4
+2025/07/04-23:27:24.783 a503 Compacting 1@1 + 1@2 files
+2025/07/04-23:27:24.794 a503 Generated table #8@1: 594 keys, 65036 bytes
+2025/07/04-23:27:24.794 a503 Compacted 1@1 + 1@2 files => 65036 bytes
+2025/07/04-23:27:24.795 a503 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/07/04-23:27:24.795 a503 Delete type=2 #5
+2025/07/04-23:27:24.796 a503 Delete type=2 #7
+2025/07/05-09:48:39.480 a504 Level-0 table #10: started
+2025/07/05-09:48:39.492 a504 Level-0 table #10: 1727438 bytes OK
+2025/07/05-09:48:39.494 a504 Delete type=0 #6
+2025/07/05-10:28:44.443 a504 Compacting 1@1 + 1@2 files
+2025/07/05-10:28:44.452 a504 Generated table #11@1: 851 keys, 73159 bytes
+2025/07/05-10:28:44.452 a504 Compacted 1@1 + 1@2 files => 73159 bytes
+2025/07/05-10:28:44.453 a504 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/07/05-10:28:44.453 a504 Delete type=2 #8
+2025/07/05-10:28:44.453 a504 Delete type=2 #10
+2025/07/05-12:41:08.124 a504 Level-0 table #13: started
+2025/07/05-12:41:08.126 a504 Level-0 table #13: 512851 bytes OK
+2025/07/05-12:41:08.128 a504 Delete type=0 #9
+2025/07/05-12:41:08.128 a504 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/07/05-12:41:08.128 a504 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x08\x02\x1f\x03\x9a!$\x1d\xa2}yB\x00\x03\x00\x00\x00\x00\x00\xc0Y@' @ 22941 : 1
+2025/07/05-12:41:08.128 a504 Compacting 1@1 + 1@2 files
+2025/07/05-12:41:08.130 a504 Generated table #14@1: 629 keys, 76820 bytes
+2025/07/05-12:41:08.130 a504 Compacted 1@1 + 1@2 files => 76820 bytes
+2025/07/05-12:41:08.131 a504 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/07/05-12:41:08.131 a504 Delete type=2 #11
+2025/07/05-12:41:08.131 a504 Delete type=2 #13
+2025/07/05-12:41:08.131 a504 Manual compaction at level-1 from '\x00\x08\x02\x1f\x03\x9a!$\x1d\xa2}yB\x00\x03\x00\x00\x00\x00\x00\xc0Y@' @ 22941 : 1 .. (end); will stop at (end)

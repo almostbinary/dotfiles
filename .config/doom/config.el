@@ -79,3 +79,7 @@
 (after! evil
   (setq evil-default-register ?+))
 (setq fancy-splash-image "~/Downloads/pokemon-splash.png")
+
+;; in ~/.config/doom/config.el
+(setq evil-want-integration t
+      evil-clipboard-register '+)   ;; makes register + the default

@@ -1,2 +1,7 @@
-2025/07/02-17:13:34.134 786 Creating DB /home/dex/.config/chromium/Default/IndexedDB/https_www.icloud.com_0.indexeddb.leveldb since it was missing.
-2025/07/02-17:13:34.136 786 Reusing MANIFEST /home/dex/.config/chromium/Default/IndexedDB/https_www.icloud.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/04-16:11:25.722 a503 Reusing MANIFEST /home/dex/.config/chromium/Default/IndexedDB/https_www.icloud.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/04-16:11:25.723 a503 Recovering log #3
+2025/07/04-16:11:25.723 a503 Reusing old log /home/dex/.config/chromium/Default/IndexedDB/https_www.icloud.com_0.indexeddb.leveldb/000003.log 
+2025/07/04-16:16:13.794 a504 Level-0 table #5: started
+2025/07/04-16:16:13.795 a504 Level-0 table #5: 4112 bytes OK
+2025/07/04-16:16:13.796 a504 Delete type=0 #3
+2025/07/04-16:16:13.796 a504 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

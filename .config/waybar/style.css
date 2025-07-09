@@ -5,7 +5,9 @@
   font-family: CaskaydiaMono Nerd Font;
   font-size: 12px;
 }
-
+window#waybar{
+  background: transparent
+}
 #workspaces {
   margin-left: 7px;
 }

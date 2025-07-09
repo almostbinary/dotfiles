@@ -1,3 +1,7 @@
-2025/07/02-18:03:34.750 a514 Reusing MANIFEST /home/dex/.config/chromium/Default/WebStorage/13/IndexedDB/indexeddb.leveldb/MANIFEST-000001
-2025/07/02-18:03:34.750 a514 Recovering log #3
-2025/07/02-18:03:34.751 a514 Reusing old log /home/dex/.config/chromium/Default/WebStorage/13/IndexedDB/indexeddb.leveldb/000003.log 
+2025/07/03-17:19:20.560 a504 Reusing MANIFEST /home/dex/.config/chromium/Default/WebStorage/13/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/07/03-17:19:20.560 a504 Recovering log #3
+2025/07/03-17:19:20.561 a504 Reusing old log /home/dex/.config/chromium/Default/WebStorage/13/IndexedDB/indexeddb.leveldb/000003.log 
+2025/07/03-18:35:06.902 a504 Level-0 table #5: started
+2025/07/03-18:35:06.903 a504 Level-0 table #5: 181393 bytes OK
+2025/07/03-18:35:06.905 a504 Delete type=0 #3
+2025/07/03-18:35:06.905 a504 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

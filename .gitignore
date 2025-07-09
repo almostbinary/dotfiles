@@ -1,0 +1,5 @@
+.cache
+.trash
+
+.cache/
+.local/share/Trash/
